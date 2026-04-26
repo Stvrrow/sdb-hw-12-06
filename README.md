@@ -129,4 +129,6 @@ INSERT INTO test VALUES (1, 'hello');
 
 Скриншот состояния и режимы работы серверов.
 
-![config](https://github.com/Stvrrow/sdb-hw-12-06/blob/main/img/img6.png)
+![config_master_2](https://github.com/Stvrrow/sdb-hw-12-06/blob/main/img/img1.png)
+
+![config_slave_2](https://github.com/Stvrrow/sdb-hw-12-06/blob/main/img/img6.png)
